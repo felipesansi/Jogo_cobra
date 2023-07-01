@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0 auto ;
+  background-color: orange;
+}
+
+h1 {
+  color: #333;
+}
+
+#gameCanvas {
+  border: 5px solid #003cff;
+
+}
+
+#btn_reiniciar
+{
+  position: relative;
+  background-color: green;
+  color: beige;
+right: 200px;
+bottom: 80px;
+width: 150px;
+height: 40px;
+font-weight: 600;
+}
