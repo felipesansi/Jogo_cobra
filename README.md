@@ -2,7 +2,7 @@ Jogo da Cobrinha
 Bem-vindo ao repositório do Jogo da Cobrinha! Este é um simples jogo da cobrinha implementado em HTML, CSS e JavaScript.
 ![Captura de Tela do Jogo](screenshot.png)
 ## Índice
-- [Demo](#demo)
+- [Jogar](#Jogar)
 - [Recursos](#recursos)
 - [Começando](#começando)
 - [Pré-requisitos](#pré-requisitos)
@@ -11,8 +11,8 @@ Bem-vindo ao repositório do Jogo da Cobrinha! Este é um simples jogo da cobrin
 - [Personalização](#personalização)
 
 
-## Demo
-Confira a demonstração ao vivo do Jogo da Cobrinha: [Jogar Jogo da Cobrinha]()
+## Jogar
+Confira o jogo agora Clicando aqui: [Jogar Jogo da Cobrinha](https://felipesansi.github.io/Jogo_cobra/)
 ## Recursos
 - Mecânica clássica do jogo da cobrinha
 - Controles simples e intuitivos
